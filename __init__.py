@@ -1,1 +1,2 @@
 from .src.extract_trim_filename import NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS
+from .src.LoadImageWithFilename import NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS
