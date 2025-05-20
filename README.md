@@ -1,5 +1,7 @@
 # ComfyUI Filename Tools
 
+## Extract Trim Filename Node
+
 Extract filenames from full paths and optionally trim them using a marker.
 Removes file extensions automatically.
 
@@ -27,7 +29,7 @@ This node loads an image from the ComfyUI input folder and extracts a cleaned ve
 | Original Filename          | trim_marker      | Resulting Name   |
 |---------------------------|------------------|------------------|
 | `photo_upscaled (2).png`  | `_upscaled`      | `photo`          |
-| `Urlaub2023-RAW (1).jpg`  | `-RAW`           | `Urlaub2023`     |
+| `Vacation23-RAW (1).jpg`  | `-RAW`           | `Vacation23`     |
 | `ImageTest (5).png`       | (empty)          | `ImageTest`      |
 | `myimage_final.png`       | `_final`         | `myimage`        |
 

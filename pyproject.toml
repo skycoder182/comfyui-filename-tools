@@ -1,8 +1,8 @@
 
 [project]
 name = "comfyui-filename-tools"
-version = "1.0.5"
-description = "A utility node for extracting and trimming filenames from file paths"
+version = "1.0.6"
+description = "A utility node for extracting and trimming filenames from file paths and uploaded pictures"
 license = { file = "LICENSE" }
 dependencies = []
 
